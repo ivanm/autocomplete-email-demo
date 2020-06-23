@@ -1,0 +1,10 @@
+{
+    "name": "email-input",
+    "short_name": "email-input",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+}
